@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Ali Osaid
-- 👀 I’m interested in ... Backend programming 
-- 🌱 I’m currently learning ... GOLANG
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aliusaid55@gmail.com
 
 <!---
