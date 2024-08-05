@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Ali Osaid
-- 📫 How to reach me ... aliusaid55@gmail.com
-
-<!---
-xNOVA2/xNOVA2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Ali Osaid 👋
+🔧 Backend Developer | Full-Stack Enthusiast
+🌐 Skilled in Node.js, Express.js, and MongoDB
+🚀 Passionate about building scalable social media applications and integrating Stripe with third-party libraries
+🔍 Interested in DevOps and advanced backend development
